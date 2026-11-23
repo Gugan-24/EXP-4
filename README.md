@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | GUGAN U| **Reg. No.:** | 26017494 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 23-11-2026 | **Batch / Section:** | 19EE305 |
 
 ---
 
